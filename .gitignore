@@ -13,12 +13,13 @@ catleb/
 *.suo
 Thumbs.db
 Desktop.ini
+
 # Local verification outputs
- desktop-pet/builds/
- desktop-pet/assets-hd/
- desktop-pet/*.exe
- desktop-pet/*report*.json
- desktop-pet/*preview*.png
- desktop-pet/*compare*.jpg
- desktop-pet/*contact*.jpg
- desktop-pet/self-test-previews/
+desktop-pet/builds/
+desktop-pet/assets-hd/
+desktop-pet/*.exe
+desktop-pet/*report*.json
+desktop-pet/*preview*.png
+desktop-pet/*compare*.jpg
+desktop-pet/*contact*.jpg
+desktop-pet/self-test-previews/
