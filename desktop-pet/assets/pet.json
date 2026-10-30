@@ -1,0 +1,646 @@
+{
+  "name": "豹嗷喵",
+  "canvas_width": 480,
+  "canvas_height": 480,
+  "default_action": "greeting",
+  "actions": [
+    {
+      "id": "greeting",
+      "name": "豹嗷喵",
+      "anchor_x": 237.8048780487805,
+      "anchor_y": 420.0,
+      "grab_x": 237.8048780487805,
+      "grab_y": 224.63414634146346,
+      "frames": [
+        {
+          "file": "greeting/frame_000.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_001.png",
+          "duration_ms": 50
+        },
+        {
+          "file": "greeting/frame_002.png",
+          "duration_ms": 50
+        },
+        {
+          "file": "greeting/frame_003.png",
+          "duration_ms": 50
+        },
+        {
+          "file": "greeting/frame_004.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_005.png",
+          "duration_ms": 50
+        },
+        {
+          "file": "greeting/frame_006.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_007.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_008.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_009.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_010.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_011.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_012.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_013.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_014.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "greeting/frame_015.png",
+          "duration_ms": 500
+        }
+      ]
+    },
+    {
+      "id": "patrol",
+      "name": "巡逻",
+      "anchor_x": 140.83333333333331,
+      "anchor_y": 420.0,
+      "grab_x": 140.83333333333331,
+      "grab_y": 199.99999999999997,
+      "frames": [
+        {
+          "file": "patrol/frame_000.png",
+          "duration_ms": 160,
+          "anchor_x": 140.83333333333331,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_001.png",
+          "duration_ms": 160,
+          "anchor_x": 155.41666666666669,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_002.png",
+          "duration_ms": 160,
+          "anchor_x": 165.41666666666666,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_003.png",
+          "duration_ms": 160,
+          "anchor_x": 212.5,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_004.png",
+          "duration_ms": 160,
+          "anchor_x": 246.66666666666669,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_005.png",
+          "duration_ms": 160,
+          "anchor_x": 277.08333333333337,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_006.png",
+          "duration_ms": 160,
+          "anchor_x": 339.1666666666667,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_007.png",
+          "duration_ms": 160,
+          "anchor_x": 317.5,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_008.png",
+          "duration_ms": 160,
+          "anchor_x": 277.5,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_009.png",
+          "duration_ms": 160,
+          "anchor_x": 242.50000000000003,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_010.png",
+          "duration_ms": 160,
+          "anchor_x": 212.5,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "patrol/frame_011.png",
+          "duration_ms": 160,
+          "anchor_x": 168.33333333333334,
+          "anchor_y": 420.0
+        }
+      ]
+    },
+    {
+      "id": "sweeping",
+      "name": "打扫",
+      "anchor_x": 110.56701030927833,
+      "anchor_y": 420.0,
+      "grab_x": 110.56701030927833,
+      "grab_y": 190.82474226804123,
+      "frames": [
+        {
+          "file": "sweeping/frame_000.png",
+          "duration_ms": 100,
+          "anchor_x": 110.56701030927833,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_001.png",
+          "duration_ms": 100,
+          "anchor_x": 110.56701030927833,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_002.png",
+          "duration_ms": 100,
+          "anchor_x": 160.67010309278348,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_003.png",
+          "duration_ms": 100,
+          "anchor_x": 160.67010309278348,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_004.png",
+          "duration_ms": 100,
+          "anchor_x": 131.90721649484536,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_005.png",
+          "duration_ms": 100,
+          "anchor_x": 161.59793814432987,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_006.png",
+          "duration_ms": 100,
+          "anchor_x": 161.59793814432987,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_007.png",
+          "duration_ms": 100,
+          "anchor_x": 189.43298969072163,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_008.png",
+          "duration_ms": 100,
+          "anchor_x": 189.43298969072163,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_009.png",
+          "duration_ms": 100,
+          "anchor_x": 202.4226804123711,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_010.png",
+          "duration_ms": 100,
+          "anchor_x": 355.5154639175258,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_011.png",
+          "duration_ms": 100,
+          "anchor_x": 355.5154639175258,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_012.png",
+          "duration_ms": 100,
+          "anchor_x": 326.2886597938144,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_013.png",
+          "duration_ms": 100,
+          "anchor_x": 326.2886597938144,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_014.png",
+          "duration_ms": 100,
+          "anchor_x": 278.50515463917526,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_015.png",
+          "duration_ms": 100,
+          "anchor_x": 225.61855670103088,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_016.png",
+          "duration_ms": 100,
+          "anchor_x": 225.61855670103088,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_017.png",
+          "duration_ms": 100,
+          "anchor_x": 194.07216494845358,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_018.png",
+          "duration_ms": 100,
+          "anchor_x": 194.07216494845358,
+          "anchor_y": 420.0
+        },
+        {
+          "file": "sweeping/frame_019.png",
+          "duration_ms": 100,
+          "anchor_x": 140.25773195876286,
+          "anchor_y": 420.0
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "玩苹果",
+      "anchor_x": 238.07142857142858,
+      "anchor_y": 420.0,
+      "grab_x": 238.07142857142858,
+      "grab_y": 213.0,
+      "frames": [
+        {
+          "file": "apple/frame_000.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_001.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_002.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_003.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_004.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_005.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_006.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_007.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_008.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_009.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_010.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_011.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_012.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_013.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_014.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_015.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_016.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_017.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_018.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "apple/frame_019.png",
+          "duration_ms": 100
+        }
+      ]
+    },
+    {
+      "id": "guitar",
+      "name": "弹吉他",
+      "anchor_x": 197.55852842809364,
+      "anchor_y": 420.0,
+      "grab_x": 197.55852842809364,
+      "grab_y": 212.30769230769226,
+      "frames": [
+        {
+          "file": "guitar/frame_000.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_001.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_002.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_003.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_004.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_005.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_006.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_007.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_008.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_009.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_010.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_011.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_012.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_013.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_014.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_015.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_016.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_017.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_018.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "guitar/frame_019.png",
+          "duration_ms": 100
+        }
+      ]
+    },
+    {
+      "id": "cool",
+      "name": "酷",
+      "anchor_x": 226.36363636363637,
+      "anchor_y": 420.0,
+      "grab_x": 226.36363636363637,
+      "grab_y": 212.72727272727272,
+      "frames": [
+        {
+          "file": "cool/frame_000.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_001.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_002.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_003.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_004.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_005.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_006.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_007.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_008.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_009.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_010.png",
+          "duration_ms": 400
+        },
+        {
+          "file": "cool/frame_011.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_012.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_013.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_014.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_015.png",
+          "duration_ms": 170
+        },
+        {
+          "file": "cool/frame_016.png",
+          "duration_ms": 130
+        },
+        {
+          "file": "cool/frame_017.png",
+          "duration_ms": 170
+        }
+      ]
+    },
+    {
+      "id": "lift",
+      "name": "拎起",
+      "anchor_x": 225.10791366906477,
+      "anchor_y": 420.0,
+      "grab_x": 225.10791366906477,
+      "grab_y": 241.29496402877697,
+      "frames": [
+        {
+          "file": "lift/frame_000.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_001.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_002.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_003.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_004.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_005.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_006.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_007.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_008.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_009.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_010.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_011.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_012.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_013.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_014.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_015.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_016.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_017.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_018.png",
+          "duration_ms": 100
+        },
+        {
+          "file": "lift/frame_019.png",
+          "duration_ms": 100
+        }
+      ]
+    }
+  ]
+}

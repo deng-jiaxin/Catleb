@@ -1,0 +1,129 @@
+{
+  "ok": true,
+  "actions": [
+    {
+      "id": "patrol",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\PNG逐帧\\巡逻",
+      "frames": 12,
+      "fixed_scale": 0.5555555555555556,
+      "fixed_translation": [
+        23.888888888888886,
+        55.55555555555554
+      ],
+      "bounds": [
+        34,
+        106,
+        286,
+        281
+      ],
+      "per_frame_anchors": true
+    },
+    {
+      "id": "sweeping",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\PNG逐帧\\打扫",
+      "frames": 20,
+      "fixed_scale": 0.6185567010309279,
+      "fixed_translation": [
+        12.474226804123703,
+        42.4742268041237
+      ],
+      "bounds": [
+        13,
+        100,
+        308,
+        281
+      ],
+      "per_frame_anchors": true
+    },
+    {
+      "id": "guitar",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\PNG逐帧\\弹吉他",
+      "frames": 20,
+      "fixed_scale": 0.4013377926421405,
+      "fixed_translation": [
+        63.67892976588628,
+        103.41137123745818
+      ],
+      "bounds": [
+        64,
+        107,
+        256,
+        296
+      ],
+      "per_frame_anchors": false
+    },
+    {
+      "id": "apple",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\PNG逐帧\\玩苹果",
+      "frames": 20,
+      "fixed_scale": 0.42857142857142855,
+      "fixed_translation": [
+        56.71428571428572,
+        90.57142857142858
+      ],
+      "bounds": [
+        63,
+        106,
+        257,
+        281
+      ],
+      "per_frame_anchors": false
+    },
+    {
+      "id": "greeting",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\PNG逐帧\\豹嗷喵",
+      "frames": 16,
+      "fixed_scale": 0.36585365853658536,
+      "fixed_translation": [
+        73.65853658536585,
+        116.82926829268294
+      ],
+      "bounds": [
+        90,
+        117,
+        230,
+        292
+      ],
+      "per_frame_anchors": false
+    },
+    {
+      "id": "cool",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\PNG逐帧\\酷",
+      "frames": 18,
+      "fixed_scale": 0.45454545454545453,
+      "fixed_translation": [
+        53.63636363636364,
+        73.63636363636365
+      ],
+      "bounds": [
+        64,
+        83,
+        256,
+        281
+      ],
+      "per_frame_anchors": false
+    },
+    {
+      "id": "lift",
+      "source": "F:\\Mixed\\Project\\Catleb\\outputs\\桌宠素材_2倍清晰版-v2\\拎起_紧凑单猫版\\PNG逐帧",
+      "frames": 20,
+      "fixed_scale": 0.8633093525179856,
+      "fixed_translation": [
+        64.1726618705036,
+        122.87769784172662
+      ],
+      "bounds": [
+        86,
+        131,
+        234,
+        308
+      ],
+      "per_frame_anchors": false
+    }
+  ],
+  "notes": [
+    "Every action uses one fixed affine transform across all original frames.",
+    "No generated or redrawn artwork. Original motion and durations retained.",
+    "Per-frame root anchors only affect transitions; image pixels are not recentered."
+  ]
+}
